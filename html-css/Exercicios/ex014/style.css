@@ -1,0 +1,22 @@
+@charset "UTF-8"
+
+body{
+    background-color: rgb(248, 242, 158);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    text-decoration: underline;
+   color: #000;    
+   background-color: rgb(255, 249, 177);
+}
+
+h2{
+    color: rgb(212, 186, 19);
+}
+
+p{
+    text-align: right;
+    text-align: justify;
+}
